@@ -1,2 +1,0 @@
-# ImpledgeTechnologies
-Solution of questions
